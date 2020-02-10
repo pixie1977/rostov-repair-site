@@ -1,0 +1,113 @@
+.decktop-second-section {
+  background: #131313;
+  max-width: 1440px;
+  height: 1074px;
+  margin: 0 auto;
+}
+
+.two-column-flex {
+  display: flex;
+  flex-direction: row;
+}
+
+.decktop-second-section-internal-container {
+  width: 1171px;
+  height: 552.28px;
+  left: 684px;
+  top: 897px;
+}
+
+.second-section-column {
+  width: 50%;
+}
+
+.second-section-menu {
+
+}
+
+.second-section-menu ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 107px;
+  margin-left: 0; /* Отступ слева в браузере IE и Opera */
+  padding-left: 0; /* Отступ слева в браузере Firefox, Safari, Chrome */
+}
+
+.second-section-menu li {
+  list-style-type: none; /* Убираем маркеры */
+  margin-right: 20px;
+  padding-right: 0;
+}
+
+.second-section-menu a{
+  font-family: Yeseva One, serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.3);
+}
+
+.second-section-menu a:hover {
+  text-decoration: underline;
+  color: #E3B873;
+}
+
+.img-example{
+  margin-top: 52px;
+}
+
+.second-section-big-text {
+  margin-top: 176px;
+  margin-left: 134px;
+  margin-bottom: 34px;
+}
+
+.second-section-big-text p{
+  font-family: Yeseva One, serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 27px;
+  line-height: 37px;
+  letter-spacing: -0.07em;
+  text-transform: uppercase;
+  margin: 0;
+  color: #E3B873;
+}
+
+.second-section-little-text {
+  margin-left: 134px;
+  margin-bottom: 34px;
+}
+
+.second-section-little-text p{
+  font-family: Nunito Sans, serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 27px;
+  margin: 0;
+  color: #FFFFFF;
+}
+
+.dark-yellow-big-text {
+  font-family: Yeseva One, serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+  text-transform: uppercase;
+  color: #E3B873;
+}
+
+.white-little-text{
+  font-family: Nunito Sans, serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 21px;
+  color: #FFFFFF;
+}
